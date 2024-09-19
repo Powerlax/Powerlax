@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Team 1294's Robot Code**
 
-- 🌱 I’m currently learning **Rust and Programming Language Creation**
+- 🌱 I’m currently learning **Computer Vision Techniques**
 
-- 💬 Ask me about **Pytorch, Linux, WPILib**
+- 💬 Ask me about **Pytorch, Linux, WPILib, Computer Vision**
 
 - 📫 How to reach me **raovishruth@gmail.com**
 
