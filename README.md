@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Team 1294's Robot Code<br>🌱 I’m currently learning Computer Vision Techniques<br>💬 Ask me about Pytorch, Linux, WPILib, Computer Vision<br>
+🔭 I’m currently working on Husky Robotics' Rover Code<br>🌱 I’m currently learning Computer Vision Techniques<br>💬 Ask me about Pytorch, Linux, WPILib, Computer Vision<br>
 
 
 ## 🌐 Socials:
